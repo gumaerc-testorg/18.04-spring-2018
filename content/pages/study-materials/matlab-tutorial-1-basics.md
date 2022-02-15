@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: 895a4821-6cfe-cadf-afd6-973524d079f5
 title: 'MATLAB Tutorial 1: Basics'
 uid: c25a67a4-a6ed-1e83-77ef-a8b0dd820160
@@ -163,7 +166,7 @@ Arrays
 >     3  
 >     4`
 
-`% Turning rows into columns is called transposing. In MATLAB we use a single quote. In mathematics we use a T, e.g. _A_T. You read this as 'A transpose'.`
+`% Turning rows into columns is called transposing. In MATLAB we use a single quote. In mathematics we use a T, e.g. _A_{{< sup "T" >}}. You read this as 'A transpose'.`
 
 > `> y = [1, 2, 3; 4, 5, 6]  
 > y =  

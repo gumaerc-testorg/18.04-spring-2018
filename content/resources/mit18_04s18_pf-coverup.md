@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-04-complex-variables-with-applications-spring-2018/a7ec9d19a389c73c6b4747ac54df6b16_MIT18_04S18_pf-coverup.pdf
+file: /media/courses/18-04-complex-variables-with-applications-spring-2018/a7ec9d19a389c73c6b4747ac54df6b16_MIT18_04S18_pf-coverup.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: '18.04 S18 Review: Partial Fractions'
 uid: a7ec9d19-a389-c73c-6b47-47ac54df6b16
