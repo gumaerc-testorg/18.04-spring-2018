@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 8a796d54-168d-d707-bfb3-baf5cab95fca
 resourcetype: Document
 title: '18.04 S18 pex2: Solutions'
 uid: b8712f3f-93fc-ea3f-eadc-62e899dcd793

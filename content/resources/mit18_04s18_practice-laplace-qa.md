@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 895a4821-6cfe-cadf-afd6-973524d079f5
 resourcetype: Document
 title: '18.04 S18 practice-laplace: Solutions'
 uid: 63e7e890-5ec1-a6db-1267-a7074b926e88

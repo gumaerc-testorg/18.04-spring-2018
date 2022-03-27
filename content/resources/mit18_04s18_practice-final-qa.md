@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 8a796d54-168d-d707-bfb3-baf5cab95fca
 resourcetype: Document
 title: '18.04 S18 practice-final: Solutions'
 uid: 9397635e-2a41-c863-5794-4e3ad8b99e8c

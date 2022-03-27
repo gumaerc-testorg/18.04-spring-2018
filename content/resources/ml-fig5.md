@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'MATLAB Tutorial 2: Plotting'
 parent_type: CourseSection
+parent_uid: 6f587f82-4462-0223-3ebb-c53f3e230a02
 resourcetype: Image
 title: ml-fig5.png
 uid: abdae862-82b3-d9e3-50cf-ba2897d35616

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0abe434b-19be-6227-ebe3-b5291011a10d
 resourcetype: Document
 title: '18.04 S18 Topic 1: Complex algebra and the complex plane'
 uid: 6eae0988-5b0f-ab3f-068e-31752198abea

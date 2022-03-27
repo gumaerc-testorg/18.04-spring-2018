@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 3112dbcd-9b11-49db-60b0-7ee958f57cd4
 resourcetype: Document
 title: '18.04 S18 Recitation 2: Solutions'
 uid: f60b61af-4b2b-1a3d-a957-c0fdc05b3eb9

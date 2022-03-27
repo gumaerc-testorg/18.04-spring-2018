@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0abe434b-19be-6227-ebe3-b5291011a10d
 resourcetype: Document
 title: '18.04 S18 Topic 3: Line integrals and Cauchy''s theorem'
 uid: 1968cab6-de7c-96ea-d1c8-3001459a007b

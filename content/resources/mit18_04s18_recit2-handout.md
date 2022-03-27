@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 3112dbcd-9b11-49db-60b0-7ee958f57cd4
 resourcetype: Document
 title: '18.04 S18 Recitation 2: Handout'
 uid: fad27d76-e588-59ec-06bc-fa0cceeb337d

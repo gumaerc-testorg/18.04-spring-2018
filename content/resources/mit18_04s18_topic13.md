@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 0abe434b-19be-6227-ebe3-b5291011a10d
 resourcetype: Document
 title: '18.04 S18 Topic 13: Analytic continuation and the Gamma function'
 uid: af8c9c78-c391-5aaf-3fd1-695f8d32a3b3
