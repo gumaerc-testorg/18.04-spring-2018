@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-04-complex-variables-with-applications-spring-2018/d6349380d89ed53649ce233a070c3b3d_MIT18_04S18_greenstheorem.pdf
+file: /courses/18-04-complex-variables-with-applications-spring-2018/d6349380d89ed53649ce233a070c3b3d_MIT18_04S18_greenstheorem.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

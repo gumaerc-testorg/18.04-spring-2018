@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes 14 lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,9 +32,9 @@ TOPICS
 {{< tdopen >}}
 
 
-[Course Introduction (PDF)]({{< baseurl >}}/resources/mit18_04s18_topic0)
+{{% resource_link 532ad5a9-f97c-5222-ee80-98c374ec3df7 "Course Introduction (PDF)" %}}
 
-[Topic 1: Complex Algebra and the Complex Plane (PDF)]({{< baseurl >}}/resources/mit18_04s18_topic1) \[Topic 1.1–1.6.2\]
+{{% resource_link 6eae0988-5b0f-ab3f-068e-31752198abea "Topic 1: Complex Algebra and the Complex Plane (PDF)" %}} \[Topic 1.1–1.6.2\]
 
 
 {{< tdclose >}}
@@ -50,7 +51,7 @@ TOPICS
 {{< tdopen >}}
 
 
-[Topic 1: Complex Algebra and the Complex Plane (PDF)]({{< baseurl >}}/resources/mit18_04s18_topic1) \[Topic 1.6.3–1.14.2\]
+{{% resource_link 6eae0988-5b0f-ab3f-068e-31752198abea "Topic 1: Complex Algebra and the Complex Plane (PDF)" %}} \[Topic 1.6.3–1.14.2\]
 
 
 {{< tdclose >}}
@@ -67,7 +68,7 @@ TOPICS
 {{< tdopen >}}
 
 
-[Topic 2: Analytic Functions (PDF)]({{< baseurl >}}/resources/mit18_04s18_topic2) \[Topic 2.1–2.5\]
+{{% resource_link 330e301b-d727-c7bd-aa67-9cf44cb75fe3 "Topic 2: Analytic Functions (PDF)" %}} \[Topic 2.1–2.5\]
 
 
 {{< tdclose >}}
@@ -84,7 +85,7 @@ TOPICS
 {{< tdopen >}}
 
 
-[Topic 2: Analytic Functions (PDF)]({{< baseurl >}}/resources/mit18_04s18_topic2) \[Topic 2.6–2.9\]
+{{% resource_link 330e301b-d727-c7bd-aa67-9cf44cb75fe3 "Topic 2: Analytic Functions (PDF)" %}} \[Topic 2.6–2.9\]
 
 
 {{< tdclose >}}
@@ -101,7 +102,7 @@ TOPICS
 {{< tdopen >}}
 
 
-[Review of _18.02 Multivariable Calculus_ (PDF)]({{< baseurl >}}/resources/mit18_04s18_1802review)
+{{% resource_link 2f434c24-72e9-c6bd-527b-7573cdce5af7 "Review of _18.02 Multivariable Calculus_ (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -118,7 +119,7 @@ TOPICS
 {{< tdopen >}}
 
 
-[Topic 3: Cauchy's Theorem (PDF)]({{< baseurl >}}/resources/mit18_04s18_topic3)
+{{% resource_link 1968cab6-de7c-96ea-d1c8-3001459a007b "Topic 3: Cauchy's Theorem (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -135,7 +136,7 @@ TOPICS
 {{< tdopen >}}
 
 
-[Topic 4: Cauchy Integral Formula (PDF)]({{< baseurl >}}/resources/mit18_04s18_topic4)
+{{% resource_link b1a90df1-9f64-3b97-4555-bbbb93138a48 "Topic 4: Cauchy Integral Formula (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -152,7 +153,7 @@ TOPICS
 {{< tdopen >}}
 
 
-[Topic 5: Harmonic Functions (PDF)]({{< baseurl >}}/resources/mit18_04s18_topic5) \[Topic 5.1–5.4\]
+{{% resource_link 2e739bb1-56ef-b0bc-7103-fc43d0897dda "Topic 5: Harmonic Functions (PDF)" %}} \[Topic 5.1–5.4\]
 
 
 {{< tdclose >}}
@@ -186,9 +187,9 @@ Review for Exam 1
 {{< tdopen >}}
 
 
-[Topic 5: Harmonic Functions (PDF)]({{< baseurl >}}/resources/mit18_04s18_topic5) \[Topic 5.5–5.6\]
+{{% resource_link 2e739bb1-56ef-b0bc-7103-fc43d0897dda "Topic 5: Harmonic Functions (PDF)" %}} \[Topic 5.5–5.6\]
 
-[Topic 6: Two Dimensional Hydrodynamics and Complex Potentials (PDF)]({{< baseurl >}}/resources/mit18_04s18_topic6) \[Topic 6.1–6.4\]
+{{% resource_link 21a6f59f-d171-56fb-d70c-426196e13b28 "Topic 6: Two Dimensional Hydrodynamics and Complex Potentials (PDF)" %}} \[Topic 6.1–6.4\]
 
 
 {{< tdclose >}}
@@ -205,7 +206,7 @@ Review for Exam 1
 {{< tdopen >}}
 
 
-[Topic 6: Two Dimensional Hydrodynamics and Complex Potentials (PDF)]({{< baseurl >}}/resources/mit18_04s18_topic6) \[Topic 6.5–6.7\]
+{{% resource_link 21a6f59f-d171-56fb-d70c-426196e13b28 "Topic 6: Two Dimensional Hydrodynamics and Complex Potentials (PDF)" %}} \[Topic 6.5–6.7\]
 
 
 {{< tdclose >}}
@@ -222,7 +223,7 @@ Review for Exam 1
 {{< tdopen >}}
 
 
-[Topic 7: Taylor and Laurent Series (PDF)]({{< baseurl >}}/resources/mit18_04s18_topic7)
+{{% resource_link dff6a0c7-0eef-b1e2-3bb8-7f8524361801 "Topic 7: Taylor and Laurent Series (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -239,7 +240,7 @@ Review for Exam 1
 {{< tdopen >}}
 
 
-[Topic 8: Residue Theorem (PDF)]({{< baseurl >}}/resources/mit18_04s18_topic8)
+{{% resource_link 3c58ce71-ec6f-7573-8042-21d76158a0bd "Topic 8: Residue Theorem (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -256,7 +257,7 @@ Review for Exam 1
 {{< tdopen >}}
 
 
-[Topic 9: Definite Integrals Using the Residue Theorem (PDF)]({{< baseurl >}}/resources/mit18_04s18_topic9)
+{{% resource_link f69bc227-ae47-6839-819f-b18e5b283072 "Topic 9: Definite Integrals Using the Residue Theorem (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -273,7 +274,7 @@ Review for Exam 1
 {{< tdopen >}}
 
 
-[Topic 10: Conformal Transformations (PDF)]({{< baseurl >}}/resources/mit18_04s18_topic10) \[Topic 10.1–10.4\]
+{{% resource_link ef46ddd9-9412-27b8-700c-945bb7475ae9 "Topic 10: Conformal Transformations (PDF)" %}} \[Topic 10.1–10.4\]
 
 
 {{< tdclose >}}
@@ -307,7 +308,7 @@ Review for Exam 2
 {{< tdopen >}}
 
 
-[Topic 10: Conformal Transformations (PDF)]({{< baseurl >}}/resources/mit18_04s18_topic10) \[Topic 10.5–10.8\]
+{{% resource_link ef46ddd9-9412-27b8-700c-945bb7475ae9 "Topic 10: Conformal Transformations (PDF)" %}} \[Topic 10.5–10.8\]
 
 
 {{< tdclose >}}
@@ -324,7 +325,7 @@ Review for Exam 2
 {{< tdopen >}}
 
 
-[Topic 10: Conformal Transformations (PDF)]({{< baseurl >}}/resources/mit18_04s18_topic10) \[Topic 10.8–10.11\]
+{{% resource_link ef46ddd9-9412-27b8-700c-945bb7475ae9 "Topic 10: Conformal Transformations (PDF)" %}} \[Topic 10.8–10.11\]
 
 
 {{< tdclose >}}
@@ -341,7 +342,7 @@ Review for Exam 2
 {{< tdopen >}}
 
 
-[Topic 11: Argument Principle (PDF)]({{< baseurl >}}/resources/mit18_04s18_topic11)
+{{% resource_link 44f1db51-3a6a-17d6-55ab-e0b6ff7748fc "Topic 11: Argument Principle (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -358,7 +359,7 @@ Review for Exam 2
 {{< tdopen >}}
 
 
-[Topic 12: Laplace Transform (PDF)]({{< baseurl >}}/resources/mit18_04s18_topic12)
+{{% resource_link 1b1cbc65-40b3-38b5-8b7b-c1b1cc1f280b "Topic 12: Laplace Transform (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -375,7 +376,7 @@ Review for Exam 2
 {{< tdopen >}}
 
 
-[Topic 13: Analytic Continuation and the Gamma Function (PDF)]({{< baseurl >}}/resources/mit18_04s18_topic13)
+{{% resource_link af8c9c78-c391-5aaf-3fd1-695f8d32a3b3 "Topic 13: Analytic Continuation and the Gamma Function (PDF)" %}}
 
 
 {{< tdclose >}}

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-04-complex-variables-with-applications-spring-2018/72cbe79e843c4846ec4f04cc3e45e104_MIT18_04S18_practice-final.pdf
+file: /courses/18-04-complex-variables-with-applications-spring-2018/72cbe79e843c4846ec4f04cc3e45e104_MIT18_04S18_practice-final.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams

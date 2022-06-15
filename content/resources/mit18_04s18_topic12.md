@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-04-complex-variables-with-applications-spring-2018/1b1cbc6540b338b58b7bc1b1cc1f280b_MIT18_04S18_topic12.pdf
+file: /courses/18-04-complex-variables-with-applications-spring-2018/1b1cbc6540b338b58b7bc1b1cc1f280b_MIT18_04S18_topic12.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

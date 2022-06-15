@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-04-complex-variables-with-applications-spring-2018/3b032b714fe4db8c23c4d00faee6ab80_ml-fig3.png
+file: /courses/18-04-complex-variables-with-applications-spring-2018/3b032b714fe4db8c23c4d00faee6ab80_ml-fig3.png
 file_type: image/png
 image_metadata:
   caption: ''

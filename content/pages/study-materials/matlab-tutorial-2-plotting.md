@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section includes Matlab plotting.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Study Materials
@@ -35,7 +36,7 @@ Styling and Decorating Plots
 > >> plot(x,(x/20).^2, 'Color', 'magenta', 'LineWidth', 3)  
 > >> hold off`
 
-![Blue, purple, and red curves.]({{< resource_file 48b540ae-adb3-2a99-d078-500785a3a994 >}})
+{{< resource 48b540ae-adb3-2a99-d078-500785a3a994 >}}
 
 `% With hold now set to off the next plot will erase all the previous ones before drawing.`
 
@@ -80,13 +81,13 @@ Three-dimensional plots in MATLAB
 
 > `>> mesh(x,y,z)`
 
-![Plot of a mesh of lines.]({{< resource_file bcaa3f6d-7075-621b-ef41-9ddaeee1b978 >}})
+{{< resource bcaa3f6d-7075-621b-ef41-9ddaeee1b978 >}}
 
 `% We can plot a filled in surface.`
 
 > `>> surf(x,y,z)`
 
-![Plot of a filled in surface.]({{< resource_file 3b032b71-4fe4-db8c-23c4-d00faee6ab80 >}})
+{{< resource 3b032b71-4fe4-db8c-23c4-d00faee6ab80 >}}
 
 `% In most installations you can manipulate the plot with the mouse. This can also be done with MATLAB commands.`
 
@@ -94,13 +95,13 @@ Three-dimensional plots in MATLAB
 
 > `>> contour(x,y,z,20)`
 
-![A 2D plot with 20 level curves.]({{< resource_file abdae862-82b3-d9e3-50cf-ba2897d35616 >}})
+{{< resource abdae862-82b3-d9e3-50cf-ba2897d35616 >}}
 
 `% Or a 3D plot with 20 contour curves.` 
 
 > `>> contour3(x,y,z,20)`
 
-![A 3D plot with 20 contour curves.]({{< resource_file c3d770f2-b522-e306-210d-4bd8691510b5 >}})
+{{< resource c3d770f2-b522-e306-210d-4bd8691510b5 >}}
 
 Final Comments
 --------------

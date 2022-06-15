@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes course meeting times, prerequisites, textbooks,
+  homework and exam information, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -34,10 +36,10 @@ Textbook
 
 There is no required textbook. We will use the following written resources:
 
-*   [Lecture Notes]({{< baseurl >}}/pages/lecture-notes)
+*   {{% resource_link 0abe434b-19be-6227-ebe3-b5291011a10d "Lecture Notes" %}}
 *   We will occasionally use readings from the following online textbooks. You can also use them as supplemental reading.
-    *   Taylor, Michael. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_Introduction to Complex Analysis_ (PDF - 1.3MB)](http://mtaylor.web.unc.edu/files/2018/04/complex.pdf)
-    *   Beck, Matthias, Gerald Marchesi, Dennis Pixton, and Lucas Sabalka. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_A First Course in Complex Analysis_ (PDF - 1MB)](http://math.sfsu.edu/beck/papers/complex.pdf)
+    *   Taylor, Michael. [_Introduction to Complex Analysis_ (PDF - 1.3MB)](http://mtaylor.web.unc.edu/files/2018/04/complex.pdf)
+    *   Beck, Matthias, Gerald Marchesi, Dennis Pixton, and Lucas Sabalka. [_A First Course in Complex Analysis_ (PDF - 1MB)](http://math.sfsu.edu/beck/papers/complex.pdf)
 *   Brown, James Ward and Ruel V. Churchill. _Complex Variables and Applications._ 9th ed. McGraw-Hill Education, 2013. ISBN: 9780073383170.
 
 Homework and Exams

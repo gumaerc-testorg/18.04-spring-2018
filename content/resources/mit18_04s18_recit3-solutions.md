@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-04-complex-variables-with-applications-spring-2018/9f481691b16e53bbd6c6c0b9360ea5d4_MIT18_04S18_Recit3-solutions.pdf
+file: /courses/18-04-complex-variables-with-applications-spring-2018/9f481691b16e53bbd6c6c0b9360ea5d4_MIT18_04S18_Recit3-solutions.pdf
 file_type: application/pdf
 learning_resource_types:
 - Recitations

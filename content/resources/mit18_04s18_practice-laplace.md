@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-04-complex-variables-with-applications-spring-2018/93611f18ea5866bdceba08bbefeac81e_MIT18_04S18_practice-laplace.pdf
+file: /courses/18-04-complex-variables-with-applications-spring-2018/93611f18ea5866bdceba08bbefeac81e_MIT18_04S18_practice-laplace.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
