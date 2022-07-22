@@ -5,6 +5,7 @@ file: /courses/18-04-complex-variables-with-applications-spring-2018/9b3709179d1
 file_type: application/pdf
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection

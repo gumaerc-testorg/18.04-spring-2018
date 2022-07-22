@@ -4,6 +4,7 @@ description: ''
 file: /courses/18-04-complex-variables-with-applications-spring-2018/a7ec9d19a389c73c6b4747ac54df6b16_MIT18_04S18_pf-coverup.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
