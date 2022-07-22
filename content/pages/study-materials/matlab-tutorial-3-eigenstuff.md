@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This section includes Matlab eigenstuff.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: 895a4821-6cfe-cadf-afd6-973524d079f5
 title: 'MATLAB Tutorial 3: Eigenstuff'
 uid: ab7a0e08-75fc-a007-c7b3-75e6fba2af72

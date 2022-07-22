@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This section includes Matlab plotting.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: 895a4821-6cfe-cadf-afd6-973524d079f5
 title: 'MATLAB Tutorial 2: Plotting'
 uid: 6f587f82-4462-0223-3ebb-c53f3e230a02
@@ -32,7 +36,7 @@ Styling and Decorating Plots
 > >> plot(x,(x/20).^2, 'Color', 'magenta', 'LineWidth', 3)  
 > >> hold off`
 
-![Blue, purple, and red curves.]({{< resource_file 48b540ae-adb3-2a99-d078-500785a3a994 >}})
+{{< resource 48b540ae-adb3-2a99-d078-500785a3a994 >}}
 
 `% With hold now set to off the next plot will erase all the previous ones before drawing.`
 
@@ -55,7 +59,7 @@ Styling and Decorating Plots
 Three-dimensional plots in MATLAB
 ---------------------------------
 
-`% To plot _z = f(x,y)_ you must specify the grid _(xi, yj)_ of lattice points to evalutate the function over. We do this by giving the _x_ vector and _y_ vector and using the MATLAB command meshgrid.`
+`% To plot _z = f(x,y)_ you must specify the grid _(x{{< sub "i" >}}, y{{< sub "j" >}})_ of lattice points to evalutate the function over. We do this by giving the _x_ vector and _y_ vector and using the MATLAB command meshgrid.`
 
 `% Here is an example.`
 
@@ -64,11 +68,11 @@ Three-dimensional plots in MATLAB
 > `>> x = [-2: 0.1: 2];  
 > >> y = [-2: 0.1: 2];`
 
-`% Then use meshgrid to make a grid of points _(xi, yj)_.`
+`% Then use meshgrid to make a grid of points _(x{{< sub "i" >}}, y{{< sub "j" >}})_.`
 
 > `>> [x, y] = meshgrid(x, y);`
 
-`% Next we plot the function _f(x,y) = y2 - 2x2_ over the rectangle [-2,2] x [-2,2].  
+`% Next we plot the function _f(x,y) = y{{< sup "2" >}} - 2x{{< sup "2" >}}_ over the rectangle [-2,2] x [-2,2].  
 (Note the dots for array operations)`
 
 > `>>z = y.^2 - 2*x.^2;`
@@ -77,13 +81,13 @@ Three-dimensional plots in MATLAB
 
 > `>> mesh(x,y,z)`
 
-![Plot of a mesh of lines.]({{< resource_file bcaa3f6d-7075-621b-ef41-9ddaeee1b978 >}})
+{{< resource bcaa3f6d-7075-621b-ef41-9ddaeee1b978 >}}
 
 `% We can plot a filled in surface.`
 
 > `>> surf(x,y,z)`
 
-![Plot of a filled in surface.]({{< resource_file 3b032b71-4fe4-db8c-23c4-d00faee6ab80 >}})
+{{< resource 3b032b71-4fe4-db8c-23c4-d00faee6ab80 >}}
 
 `% In most installations you can manipulate the plot with the mouse. This can also be done with MATLAB commands.`
 
@@ -91,13 +95,13 @@ Three-dimensional plots in MATLAB
 
 > `>> contour(x,y,z,20)`
 
-![A 2D plot with 20 level curves.]({{< resource_file abdae862-82b3-d9e3-50cf-ba2897d35616 >}})
+{{< resource abdae862-82b3-d9e3-50cf-ba2897d35616 >}}
 
 `% Or a 3D plot with 20 contour curves.` 
 
 > `>> contour3(x,y,z,20)`
 
-![A 3D plot with 20 contour curves.]({{< resource_file c3d770f2-b522-e306-210d-4bd8691510b5 >}})
+{{< resource c3d770f2-b522-e306-210d-4bd8691510b5 >}}
 
 Final Comments
 --------------
