@@ -26,7 +26,7 @@ Complex analysis is a basic tool in many mathematical theories. By itself and th
 
 There are a small number of far-reaching theorems that we’ll explore in the first part of the class. Along the way, we’ll touch on some mathematical and engineering applications of these theorems. The last third of the class will be devoted to a deeper look at applications.
 
-The main theorems are Cauchy’s Theorem, Cauchy’s integral formula, and the existence of Taylor and Laurent series. Among the applications will be harmonic functions, two dimensional fluid flow, easy methods for computing (seemingly) hard integrals, Laplace transforms, and Fourier transforms with applications to engineering and physics.
+The main theorems are Cauchy’s Theorem, Cauchy’s integral formula, and the existence of Taylor and Laurent series. Among the applications will be harmonic functions, two-dimensional fluid flow, easy methods for computing (seemingly) hard integrals, Laplace transforms, and Fourier transforms with applications to engineering and physics.
 
 ## Textbook
 
@@ -34,8 +34,8 @@ There is no required textbook. We will use the following written resources:
 
 - {{% resource_link "0abe434b-19be-6227-ebe3-b5291011a10d" "Lecture Notes" %}}
 - We will occasionally use readings from the following online textbooks. You can also use them as supplemental reading.
-    - Taylor, Michael. [*Introduction to Complex Analysis* (PDF - 1.3MB)](http://mtaylor.web.unc.edu/files/2018/04/complex.pdf)
-    - Beck, Matthias, Gerald Marchesi, Dennis Pixton, and Lucas Sabalka. [*A First Course in Complex Analysis* (PDF - 1.5MB)](https://matthbeck.github.io/papers/complexorth.pdf)
+    - Taylor, Michael. {{% resource_link "dce22c39-d555-4de0-bd25-556d2928a8e1" "*Introduction to Complex Analysis* (PDF - 1.3MB)" %}}
+    - Beck, Matthias, Gerald Marchesi, Dennis Pixton, and Lucas Sabalka. {{% resource_link "06c7619b-32c4-4b82-a766-71002eeb26ed" "*A First Course in Complex Analysis* (PDF - 1.5MB)" %}}
 - Brown, James Ward and Ruel V. Churchill. *Complex Variables and Applications.* 9th ed. McGraw-Hill Education, 2013. ISBN: 9780073383170.
 
 ## Homework and Exams
