@@ -7,7 +7,7 @@ title: Related Resources
 uid: 0d58de73-fdbc-d44f-9b1b-72c98d7178ac
 ---
 
-The [Differential Equations Applets](http://web.mit.edu/jorloff/www/jmoapplets/applets.html) page is an extensive collection of applets including:
+The {{% resource_link "97609128-7376-426a-b19d-3e162a69ea84" "Differential Equations Applets" %}} page is an extensive collection of applets including:
 
 *   MIT Mathlets
 *   Applets used in _18.02 Calculus_
