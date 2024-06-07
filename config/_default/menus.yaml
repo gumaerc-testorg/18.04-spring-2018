@@ -15,30 +15,34 @@ leftnav:
   name: Recitations
   pageRef: /pages/recitations
   weight: 40
+- identifier: 563bd99e-e347-4c92-a1ca-65fd647bfb08
+  name: Problem Sets
+  pageRef: /pages/problem-sets-and-solutions
+  weight: 50
 - identifier: 8a796d54-168d-d707-bfb3-baf5cab95fca
   name: Exams
   pageRef: /pages/exams
-  weight: 50
+  weight: 60
 - identifier: 895a4821-6cfe-cadf-afd6-973524d079f5
   name: Study Materials
   pageRef: /pages/study-materials/
-  weight: 60
+  weight: 70
+- identifier: 0d58de73-fdbc-d44f-9b1b-72c98d7178ac
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 80
 - identifier: c25a67a4-a6ed-1e83-77ef-a8b0dd820160
   name: 'MATLAB Tutorial 1: Basics'
   pageRef: /pages/study-materials/matlab-tutorial-1-basics
   parent: 895a4821-6cfe-cadf-afd6-973524d079f5
-  weight: 70
+  weight: 10
 - identifier: 6f587f82-4462-0223-3ebb-c53f3e230a02
   name: 'MATLAB Tutorial 2: Plotting'
   pageRef: /pages/study-materials/matlab-tutorial-2-plotting
   parent: 895a4821-6cfe-cadf-afd6-973524d079f5
-  weight: 80
+  weight: 20
 - identifier: ab7a0e08-75fc-a007-c7b3-75e6fba2af72
   name: 'MATLAB Tutorial 3: Eigenstuff'
   pageRef: /pages/study-materials/matlab-tutorial-3-eigenstuff
   parent: 895a4821-6cfe-cadf-afd6-973524d079f5
-  weight: 90
-- identifier: 0d58de73-fdbc-d44f-9b1b-72c98d7178ac
-  name: Related Resources
-  pageRef: /pages/related-resources
-  weight: 100
+  weight: 30
