@@ -1,24 +1,20 @@
 ---
+body: ''
 content_type: resource
-description: ''
 draft: false
-file: /courses/18-04-complex-variables-with-applications-spring-2018/2f434c2472e9c6bd527b7573cdce5af7_MIT18_04S18_1802Review.pdf
-file_size: 214169
+file: /courses/18-04-complex-variables-with-applications-spring-2018/mit18_04_s18_pset01_sol.pdf
+file_size: 340524
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exam Materials
+- Problem Sets with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-ocw_type: OCWFile
-parent_title: Lecture Notes
-parent_type: CourseSection
-parent_uid: 0abe434b-19be-6227-ebe3-b5291011a10d
 resourcetype: Document
-title: '18.04 S18 Review: 18.02 Review'
-uid: 2f434c24-72e9-c6bd-527b-7573cdce5af7
+title: '18.04 S18 ps1: Solutions'
+uid: d386d86d-d27a-4f6b-a1f0-9b14107aade3
 video_files:
   archive_url: ''
   video_captions_file: ''
