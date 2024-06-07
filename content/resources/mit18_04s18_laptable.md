@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-04-complex-variables-with-applications-spring-2018/6aa89a153403fee81b90a1a55d524c2a_MIT18_04S18_laptable.pdf
+file_size: 123344
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

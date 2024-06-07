@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/18-04-complex-variables-with-applications-spring-2018/abdae86282b3d9e350cfba2897d35616_ml-fig5.png
+file_size: 43065
 file_type: image/png
 image_metadata:
   caption: ''
