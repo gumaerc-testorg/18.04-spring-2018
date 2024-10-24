@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/18-04-complex-variables-with-applications-spring-2018/mit18_04_s18_pset02.pdf
+file: /ol-ocw-studio-app/courses/18-04-complex-variables-with-applications-spring-2018/mit18_04_s18_pset02.pdf
 file_size: 50764
 file_type: application/pdf
 image_metadata:
