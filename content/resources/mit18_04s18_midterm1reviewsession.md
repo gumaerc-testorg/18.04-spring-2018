@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/18-04-complex-variables-with-applications-spring-2018/b7701be08eb10b0adf5570c7e7eb10d8_MIT18_04S18_midterm1ReviewSession.pdf
+file: /ol-ocw-studio-app/courses/18-04-complex-variables-with-applications-spring-2018/b7701be08eb10b0adf5570c7e7eb10d8_MIT18_04S18_midterm1ReviewSession.pdf
 file_size: 114497
 file_type: application/pdf
 image_metadata:

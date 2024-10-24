@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-04-complex-variables-with-applications-spring-2018/bcaa3f6d7075621bef419ddaeee1b978_ml-fig2.png
+file: /ol-ocw-studio-app/courses/18-04-complex-variables-with-applications-spring-2018/bcaa3f6d7075621bef419ddaeee1b978_ml-fig2.png
 file_size: 86220
 file_type: image/png
 image_metadata:
