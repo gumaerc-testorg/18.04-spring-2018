@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/18-04-complex-variables-with-applications-spring-2018/532ad5a9f97c5222ee8098c374ec3df7_MIT18_04S18_topic0.pdf
+file: /courses/18-04-complex-variables-with-applications-spring-2018/532ad5a9f97c5222ee8098c374ec3df7_MIT18_04S18_topic0.pdf
 file_size: 116205
 file_type: application/pdf
 learning_resource_types:
