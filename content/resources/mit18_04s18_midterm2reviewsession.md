@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/18-04-complex-variables-with-applications-spring-2018/4188c793c47f7350655fad51d97cd18c_MIT18_04S18_midterm2ReviewSession.pdf
+file: /ol-ocw-studio-app/courses/18-04-complex-variables-with-applications-spring-2018/4188c793c47f7350655fad51d97cd18c_MIT18_04S18_midterm2ReviewSession.pdf
 file_size: 126777
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exam Materials
+- Supplemental Exam Materials
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
