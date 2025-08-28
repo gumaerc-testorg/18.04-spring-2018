@@ -44,10 +44,11 @@
   "learning_resource_types": [
     "Exams with Solutions",
     "Lecture Notes",
-    "Recitation Notes",
+    "Problem-solving Notes",
     "Problem Sets with Solutions"
   ],
   "site_uid": "2f8d5de4-ab84-437d-9f5a-e4e4ae9c8caf",
   "site_short_id": "18.04-spring-2018",
+  "site_url_path": "courses/18-04-complex-variables-with-applications-spring-2018",
   "title": "Course Metadata"
 }
